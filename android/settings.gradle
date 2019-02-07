@@ -1,0 +1,3 @@
+rootProject.name = 'Parenta'
+
+include ':app'
